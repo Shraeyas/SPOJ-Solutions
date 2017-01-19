@@ -40,6 +40,6 @@ int main()
 			dp[i]+= max(dp[i-1], p[i]+dp[i-2]);
 		}
 		
-		cout<<"Case "<<cs++<<": "<<dp[n-1]<<endl;
+		cout<<"Case "<<cs++<<": "<<dp[n-1]<<"\n";
 	}
 }
