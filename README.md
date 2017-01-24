@@ -9,4 +9,4 @@ Author : Shreyas Singh
 
 Development Environments :Dev C++, Netbeans(Java), Android Studio(Android)
 
-#Skills : Android, LibGDX, Java Regex, Algorithms and Data Structures
+Skills and Scripting Languages: Android, HTML, CSS, JavaScript, Jquery, Json, MySQL, PHP, BootStrap, LibGDX, Algorithms and Data Structures
