@@ -1,6 +1,6 @@
 # SPOJ-Solutions
 Find Solutions by Entering Problem Names or Codes
-#Press Ctrl + F in your browser windows to search
+#Press Ctrl + F in your browser window to search
 
 Author : Shreyas Singh
 #Username : Shraeyas
