@@ -53,7 +53,7 @@ int main()
 	construct(0, n-1, 0);
 	
 	long k;
-	scanf("%ld",&k);
+	scanf("%ld", &k);
 	
 	for(long i=0;i<n-k+1;i++)
 	{
