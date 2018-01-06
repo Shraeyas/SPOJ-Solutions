@@ -17,7 +17,7 @@ int *a = new int[max1];
 
 int maxfun(int pg, int ss)
 {
-	return pg>ss?pg:ss;
+	return max(pg, ss);
 }
 
 void pg(int pos)
